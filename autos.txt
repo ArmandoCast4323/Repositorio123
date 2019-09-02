@@ -1,8 +1,5 @@
 aqui estan los autos 
 
-<<<<<<< HEAD
 hola Carlos
-=======
 
 Felix Gonzalez
->>>>>>> 648657a4a074b60b477e60d634a3caf6c6d0074d
